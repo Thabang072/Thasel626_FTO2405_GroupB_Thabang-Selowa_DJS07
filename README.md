@@ -1,7 +1,8 @@
-# DJS07 - Build a Meme Generator
+# React + Vite
 
-In this challenge you are required to code-along the Scrimba lesson: https://scrimba.com/playlist/prXJpCQ
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-This starter repo only has CSS styling added to the empty React project.
+Currently, two official plugins are available:
 
-After cloning run `npm install` to install dependencies.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
